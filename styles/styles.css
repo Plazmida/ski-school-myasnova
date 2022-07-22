@@ -1,0 +1,13 @@
+.product-title{
+  color: blue;
+}
+.options-subtitle{
+  color: brown;
+  font-style: italic;
+  font-size: large;
+}
+.options-text {
+  color: black;
+  font-style: normal;
+  font-size: medium;
+}
