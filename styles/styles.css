@@ -78,7 +78,18 @@ body {
 
 /* Product */
 
+.product {
+  padding-top: 240px;
+  padding-bottom: 260px;
+  text-align: center;
+  background-image: url('../image/promo.jpg');
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 .product-title {
+  margin: 0 0 60px 0;
   font-family: 'Oswald';
   font-size: 60px;
   line-height: 89px;
@@ -96,7 +107,12 @@ body {
 }
 
 /* options */
+.options {
+  padding: 170px ;
+}
+
 .options-slogan {
+  text-align: center;
   font-family: 'Oswald';
   font-size: 48px;
   line-height: 167%;
@@ -116,6 +132,8 @@ body {
 }
 
 .order-text {
+  padding: 170px;
+  text-align: center;
   font-family: 'Oswald';
   font-size: 48px;
   line-height: 167%;
