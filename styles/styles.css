@@ -54,7 +54,7 @@ body {
 .btn {
   display: block;
   min-width: 505px;
-  padding: 20px 107px 22px 108px;
+  padding: 16px 103px 18px 104px;
   margin: 0 auto;
   position: relative;
   font-family: "Montserrat", sans-serif;
@@ -177,7 +177,7 @@ body {
  }
 
 .order-text {
-  padding: 170px 0 61px 0;
+  padding: 170px 0 60px 0;
   margin: 0;
   text-align: center;
   font-family: 'Oswald';
@@ -190,7 +190,7 @@ body {
 .order-wrap {
   display: flex;
   justify-content: space-between;
-  padding: 131px 0 180px 0;
+  padding: 130px 0 180px 0;
   filter: drop-shadow(0 4px 4px rgba(0,0,0,0.25));
 }
 
