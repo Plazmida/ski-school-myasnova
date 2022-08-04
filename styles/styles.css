@@ -172,7 +172,7 @@ body {
 }
  /*order*/
  .order {
-  background: linear-gradient(to bottom left, rgba(102, 209, 255, .1) 50%, #fff 50%);
+  background: linear-gradient(to bottom left, rgba(196, 196, 196, 0) 50%, #fff 50%);
 
  }
 
